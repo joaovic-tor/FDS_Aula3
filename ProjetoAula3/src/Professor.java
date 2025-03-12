@@ -17,6 +17,7 @@ case 0,1,2,3,4,5 -> "Assistente";
 case 6,7,8,9,10 -> "Adjunto";
 default -> "Titular";
 };
+//trabalhando....
 }
 @Override
 public String toString() {
