@@ -18,6 +18,7 @@ case 6,7,8,9,10 -> "Adjunto";
 default -> "Titular";
 };
 //trabalhando....
+//trabalhei já
 }
 @Override
 public String toString() {
