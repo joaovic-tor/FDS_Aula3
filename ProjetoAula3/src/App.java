@@ -12,6 +12,3 @@ public class App {
  s.close();
  }
 }
-//oi kkkk
-//ta desatualizado parsa
-//to nada
